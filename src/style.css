@@ -29,7 +29,7 @@ p {
 }
 
 .intro {
-  background: var(--main-color);
+  background: linear-gradient(120deg,#FFEBF1 0%, #BFC3FB 100%);
   text-align: center;
   padding: 160px 20px;
 }
